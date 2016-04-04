@@ -1,15 +1,15 @@
 analytics: {}
 color:
   brandColors:
-    - '#D8C0C0'
-    - '#A87828'
-    - '#A07878'
-    - '#B88838'
-    - '#F8D080'
+    - '#A8A0C0'
+    - '#703830'
+    - '#507098'
+    - '#185088'
+    - '#88C0F0'
   brandStrength: 1
   lightness: 0
   rhythmicContrast: 1
-  saturation: 0
+  saturation: 1
 cta: {}
 layout_spectrum: 1
 name: Laipple Test
